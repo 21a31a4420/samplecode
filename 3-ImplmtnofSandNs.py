@@ -12,5 +12,5 @@ class Employee:
 emp1=Employee(101,'Prasanthi',8400,4)
 emp2=Employee(102,'San',8100,5)
 print('Total employees:',Employee.TotalEmployees)
-emp1.showEmployee()
-emp2.showEmployee()
+# emp1.showEmployee()
+# emp2.showEmployee()
